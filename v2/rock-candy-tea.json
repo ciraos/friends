@@ -1,0 +1,33 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "贰猹",
+      "url": "https://noionion.top",
+      "avatar": "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg",
+      "screenshot": "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/noionion.top.png",
+      "description": "用这生命中的每一秒，给自己一个不后悔的未来"
+    },
+    {
+      "title": "张洪Heo",
+      "url": "https://blog.zhheo.com",
+      "avatar": "https://npm.elemecdn.com/guli-heo/img/avatar2.png",
+      "screenshot": "",
+      "description": "分享设计与科技生活"
+    },
+    {
+      "title": "Akilarの糖果屋",
+      "url": "https://akilar.top",
+      "avatar": "https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.png",
+      "screenshot": "https://cdn.jsdelivr.net/gh/Akilarlxh/siteshot@gh-pages/akilar.top.jpg",
+      "description": "期待您的光临！"
+    },
+    {
+      "title": "小冰",
+      "url": "https://zfe.space",
+      "avatar": "https://zfe.space/images/headimage.png",
+      "screenshot": "https://cdn.jsdelivr.net/gh/ciraos/ciraos-static@main/img/zfe-site-shot.png",
+      "description": "做个有梦想的人！"
+    }
+  ]
+}
